@@ -3,7 +3,7 @@ class Main {
 
     }
 }
-
+fuck git
 class Bank {
     Person[] users;
     double balance;
